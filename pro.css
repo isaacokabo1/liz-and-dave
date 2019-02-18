@@ -1,0 +1,231 @@
+body {
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white; 
+    color: rgb(14, 13, 13);
+    
+    
+}
+.nav {
+    width: 100%;
+    height: 90px;
+    top: opx;
+    position: fixed;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+ul li {
+    margin-top: 0%;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 12px;
+    border-radius: 12px;
+    transition: 0.7s;
+    background-color: navy;
+    color: white;
+    
+
+}
+ul li:hover {
+    background-color: pink;
+}
+.box {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(27, 26, 26);
+
+}
+.nested {
+    width: 20%;
+    height: 70px;
+    float: left;
+    padding: 0px;
+}
+#pro-file {
+    width: 73%;
+    height: 100px;
+    border-radius: 12px;
+
+
+}
+.facebook {
+    width: 20%;
+    height: 40px;
+    float: right;
+    padding: 0px 0px;
+
+
+}
+.fb {
+    list-style-type: none;
+    border-radius: 1px 2px 2px ;
+    color: white;
+    color: blue;
+
+}
+.imgs {
+    width: 13%;
+    height: 200px; 
+    float: right;
+    margin: 0px 2px;
+    padding: 0px 35px;
+}
+.img {
+    width: 13%;
+    height: 200px;
+    float: right; 
+    margin: 0px 12px
+    
+}
+.im {
+    width: 13%;
+    height: 200px; 
+    float: right;
+    margin: 0px 12px;
+}
+
+.i {
+    width: 13%;
+    height: 200px;
+    float: right; 
+    margin: 0px 12px
+    
+}
+.bux {
+    margin: 0px 0px 0px 380px;
+}
+#br {
+    width: 200px;
+    height: 170px;
+    border-radius: 16px;
+    margin: 0px 0px 0px 2px;
+}
+#sho {
+    width: 200px;
+    height: 170px;
+    border-radius: 16px;
+    margin: 0px 0px 0px 12px;
+}
+#tull {
+    width: 200px;
+    height: 170px;
+    border-radius: 16px;
+    margin: 0px 0px 43px 12px;
+    margin: 0px 0px 43px;
+}
+#x {
+    width: 200px;
+    height: 170px;
+    border-radius: 16px;
+    margin: 0px 0px 30px 0px;
+    margin: 0px -20px 43px;
+}
+h2 {
+    border-radius: 2px;
+    color: red;
+    padding: 0px 0px 0px 910px;
+
+
+}
+button {
+    border-block-end-style: none;
+    color:  blue;
+    border: none;
+    font-size: 20px;
+    font-family: verdana;
+    display: inline-block;
+}
+.bow {
+    width: 400px;
+    height: 370px;
+    border: 1px solid black;
+    background-color: rgb(11, 12, 12);
+    border-radius: 12px;
+    margin: -50px 0px 0px 2px;
+    color: green;
+}
+.off {
+    float: right;
+    margin: -60px 0px 0px 0px;
+}
+.all {
+    float: right;
+    margin: -40px 4px 0px 0px;
+}
+
+.al {
+    float: right;
+    margin: -39px 4px 0px 0px;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+#new {
+    width: 100px;
+    height: 90px;
+    border-radius: 4000px 4000px 4000px 4000px;
+
+
+}
+.ble {
+    
+    height: 100px;
+    
+    float: left;
+
+}
+.bl {
+    float: left;
+    margin: -99px 0px 0px 490px;
+}
+.wow {
+    width: 1349px;;
+    height: 50px;
+    background-color: brown;
+
+}
+h4 {
+    color: black;
+    margin: -110px 0px 0px 120px; 
+}
+.dp {
+    color: white;
+    
+}
+.n {
+    width: 800px;;
+    height: 50px;
+    border: 1px solid blue;
+    background-color: black;
+    margin: 450px 0px 0px 300px;
+    border-radius: 12px;
+    color: white;
+    text-align: center;
+}
+.ol {
+    color: green;
+    padding: 3px;
+}
+.oil {
+    width: 360px;
+    height: 400px;
+    float: left;
+    margin: -405px 0px 0px 940px;
+    border-radius: 12px;
+    
+
+}
+.bmw {
+    width: 350px;
+    height: 20px;
+    padding: 24px;
+    border-radius: 14px;
+    background-color: black;
+   
+}
